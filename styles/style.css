@@ -1,0 +1,33 @@
+html {
+    font-size: 10px;
+    font-family: "Roboto Mono", monospace;
+    background-color: #b2f199;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 1px;
+    padding: 20px 0;
+    color: white;
+    text-shadow: 3px 3px 1px black;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 1050px;
+    margin: 5 auto;
+    background-color: #7ED359;
+    padding: 0 20px 20px 20px;
+    border: 3px solid green;
+}
+
+img {
+    display: block;
+    margin: 0 auto; 
+}
